@@ -1,13 +1,28 @@
-body {
+#container {
+	margin-top: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+
+	padding: 10px 100px 10px 100px;
+
+	border-radius: 10px;
 	background-color: rgb(224, 219, 219);
-	height: 100%;
-	margin: 10;
-	width: 100%;
+
+	text-align: left;
 }
+
 
 h1 {
   font-family: Palatino, 'Palatino Linotype', serif;
   color: rgb(54, 209, 121);
-	font-size: 32px;
+	font-size: 56px;
 	;
 }
+
+.resume {
+border-style: rounded;
+border-width: 3px solid #000;
+  text-align: left;
+  padding: 30px;
+}
+	
