@@ -1,1 +1,12 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
 
+h1 {
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(54, 209, 121);
+	font-size: 32px;
+}
